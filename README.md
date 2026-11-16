@@ -10,7 +10,7 @@ This sample demonstrates the way to set the Blazor ListBox items as horizontal l
 
 ## Prerequisites
 
-* Visual Studio 2022
+* Visual Studio 2022 (or later) with **.NET 10.0** SDK installed.
 
 ## How to run the project
 
